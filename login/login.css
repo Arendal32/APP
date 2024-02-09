@@ -1,0 +1,25 @@
+#loginBox {
+    height: 200px;
+    width: 30%;
+    background-color:rgba(255, 0, 0, 0);
+    border: 1px solid white;
+    box-sizing: border-box;
+    
+
+    padding: auto;
+    margin: auto;
+}
+.loginAttr{
+    display: block;
+    width: 80%;
+}
+label.loginAttr{
+    color: white;
+    
+}
+input.loginAttr{
+    margin:auto ;
+}
+#btnLogin{
+    width: 60px;
+}
